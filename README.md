@@ -1,7 +1,8 @@
+
+
 - 👋 Hi, I’m @gabrieltelescosta
 - 👀 I’m interested in React, ReactNative, NodeJs
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React
 - 📫 How to reach me gabrieltelesc1@gmail.com
 
 <!---
