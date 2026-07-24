@@ -14,7 +14,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🧭 Dev em **São Paulo**, focado em **front-end** com pegada **full-stack**.
+- 🧭 Dev em **São Paulo**, focado em **front-end**.
 - ⚡ Construo produtos de **tracking, atribuição de tráfego pago e apostas online**.
 - 🛠️ No dia a dia: **React, Next.js, TypeScript, Node.js** e **Go** no backend.
 - 🌐 Escrevo e experimento em [gabrielteles.com.br](https://gabrielteles.com.br).
