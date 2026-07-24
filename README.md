@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Desenvolvedor+Front-end+%2F+Full-Stack;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Go;Tracking%2C+atribui%C3%A7%C3%A3o+e+apostas+online" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Desenvolvedor+Front-end;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Go;Tracking%2C+atribui%C3%A7%C3%A3o+e+apostas+online" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,6 +19,14 @@
 - 🛠️ No dia a dia: **React, Next.js, TypeScript, Node.js** e **Go** no backend.
 - 🌐 Escrevo e experimento em [gabrielteles.com.br](https://gabrielteles.com.br).
 - 💬 Fala comigo sobre front-end, performance web e arquitetura de tracking.
+
+---
+
+### 🚀 O que eu construo
+
+- 🎰 **Plataformas de iGaming / apostas online**: cassino, sportsbook e minigames em tempo real.
+- 📈 **Tracking e atribuição de tráfego pago**: redirect, atribuição e dashboards (Fastify, Postgres, Redis, BullMQ).
+- 🛒 **E-commerce e sites de alta performance**: temas e lojas (Shopify, WordPress, Next.js).
 
 ---
 
@@ -53,12 +61,11 @@
 ### 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabrieltelescosta&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieltelescosta&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=gabrieltelescosta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrieltelescosta&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieltelescosta&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Activity Graph" />
 </p>
 
 ---
