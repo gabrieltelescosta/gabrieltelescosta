@@ -1,6 +1,10 @@
 <h1 align="center">Olá, eu sou o Gabriel Teles 👋</h1>
 
 <p align="center">
+  <img src="./party.gif" width="745" alt="Party de RPG pixel art: rei, cavaleiro e mago desferindo golpes" />
+</p>
+
+<p align="center">
   <a href="https://readme-typing-svg.demolab.com">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=560&lines=Desenvolvedor+Front-end;React+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Go;Tracking%2C+atribui%C3%A7%C3%A3o+e+apostas+online" alt="Typing SVG" />
   </a>
