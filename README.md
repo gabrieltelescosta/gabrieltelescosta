@@ -60,3 +60,9 @@
   <a href="https://gabrielteles.com.br"><img src="https://img.shields.io/badge/Site-gabrielteles.com.br-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white" alt="site" /></a>
   <a href="mailto:gabrieltelesc1@gmail.com"><img src="https://img.shields.io/badge/Email-gabrieltelesc1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
+
+---
+
+<p align="center">
+  <img src="./trio.gif" width="360" alt="Rei, cavaleiro e mago pixel art fazendo uma ola: cada um mostra um golpe na sua vez" />
+</p>
