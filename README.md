@@ -58,18 +58,6 @@
 
 ---
 
-### 📊 GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=gabrieltelescosta&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gabrieltelescosta&theme=tokyo-night&hide_border=true&area=true&custom_title=Atividade%20de%20contribui%C3%A7%C3%B5es" alt="Activity Graph" />
-</p>
-
----
-
 ### 📫 Onde me achar
 
 <p align="center">
