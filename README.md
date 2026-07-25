@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gabriel Teles 👋</h1>
 
 <p align="center">
-  <img src="./party.gif" width="745" alt="Party de RPG pixel art: rei, cavaleiro e mago desferindo golpes" />
+  <img src="./mage.gif" width="444" alt="Mago pixel art conjurando e disparando uma bola de fogo" />
 </p>
 
 <p align="center">
