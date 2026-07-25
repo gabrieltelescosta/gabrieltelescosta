@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gabriel Teles 👋</h1>
 
 <p align="center">
-  <img src="./trio.gif" width="310" alt="Rei, cavaleiro e mago pixel art juntos, parados (idle)" />
+  <img src="./mage.gif" width="444" alt="Mago pixel art andando e disparando uma bola de fogo" />
 </p>
 
 <p align="center">
@@ -59,4 +59,10 @@
 <p align="center">
   <a href="https://gabrielteles.com.br"><img src="https://img.shields.io/badge/Site-gabrielteles.com.br-7AA2F7?style=flat-square&logo=googlechrome&logoColor=white" alt="site" /></a>
   <a href="mailto:gabrieltelesc1@gmail.com"><img src="https://img.shields.io/badge/Email-gabrieltelesc1@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="./trio.gif" width="232" alt="Rei, cavaleiro e mago pixel art parados (idle)" />
 </p>
