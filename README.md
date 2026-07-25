@@ -64,5 +64,5 @@
 ---
 
 <p align="center">
-  <img src="./trio.gif" width="360" alt="Rei, cavaleiro e mago pixel art fazendo uma ola: cada um mostra um golpe na sua vez" />
+  <img src="./trio.gif" width="232" alt="Rei, cavaleiro e mago pixel art parados (idle)" />
 </p>
