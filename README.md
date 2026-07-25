@@ -16,18 +16,10 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 🚀 O que eu construo
 
 - 🧭 Dev em **São Paulo**, focado em **front-end**.
 - ⚡ Construo produtos de **tracking, atribuição de tráfego pago e apostas online**.
-- 🛠️ No dia a dia: **React, Next.js, TypeScript, Node.js** e **Go** no backend.
-- 🌐 Escrevo e experimento em [gabrielteles.com.br](https://gabrielteles.com.br).
-- 💬 Fala comigo sobre front-end, performance web e arquitetura de tracking.
-
----
-
-### 🚀 O que eu construo
-
 - 🎰 **Plataformas de iGaming / apostas online**: cassino, sportsbook e minigames em tempo real.
 - 📈 **Tracking e atribuição de tráfego pago**: redirect, atribuição e dashboards (Fastify, Postgres, Redis, BullMQ).
 - 🛒 **E-commerce e sites de alta performance**: temas e lojas (Shopify, WordPress, Next.js).
